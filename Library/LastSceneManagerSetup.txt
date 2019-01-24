@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Krebs_Triston_Dig3480_Tutorial1_minigame.unity
+  isLoaded: 1
+  isActive: 1
